@@ -1,0 +1,1 @@
+SELECT жопа * from 

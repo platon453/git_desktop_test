@@ -1,3 +1,6 @@
+//бля чет исправил щас тип лучше
+
+
 package main
 
 import "fmt"

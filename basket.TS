@@ -4,6 +4,9 @@ interface Product {
   price: number;
 }
 
+//да и тут пизже сделал
+
+
 class ShoppingCart {
   private items: Product[] = [];
 

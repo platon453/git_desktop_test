@@ -1,5 +1,6 @@
 package main
-
+//чел написал хуевую логику
+//передлываю go чтобы было без логики
 import "fmt"
 
 type Product struct {
